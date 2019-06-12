@@ -95,6 +95,7 @@
     <Content Include="img\delete.jpeg" />
     <Content Include="img\image.jpg" />
     <Content Include="index.html" />
+    <Content Include="index2.html" />
     <Content Include="js\foundation.min.js" />
     <Content Include="js\foundation\foundation.abide.js" />
     <Content Include="js\foundation\foundation.accordion.js" />
